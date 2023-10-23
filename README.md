@@ -6,7 +6,9 @@ I am highly proficient in Python and have a solid understanding of C++ and Rust 
 
 I have conducted research on medical image processing using deep learning during my master's degree. Throughout my studies, I had the opportunity to work in the QoS team at Hulu LLC., where I focused on improving service quality using machine learning techniques.
 
-After completing my master's degree, I joined the AI-Computing team at Megvii Inc., where I am currently responsible for developing an AI compiler toolchain for edge computing. Additionally, I have gained valuable experience in developing cloud-based infrastructure for LLM applications.
+After completing my master's degree, I joined the AI-Computing team at Megvii Inc., where I was responsible for developing an AI compiler toolchain for edge computing. Additionally, I have gained valuable experience in developing cloud-based infrastructure for LLM applications.
+
+Now I'm working at TuSimple Japan as a software integration engineer.
 
 I completed both my Bachelor's and Master's degrees in Software Engineering at Tsinghua University.
 
