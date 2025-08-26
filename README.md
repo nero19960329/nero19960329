@@ -2,13 +2,11 @@
 
 Hi, I'm Zhao Wang.
 
-I am highly proficient in Python and have a solid understanding of C++ and Rust for programming. Currently, I am actively learning Go and TypeScript to expand my skillset.
+I am highly proficient in Python and have a solid understanding of C++ / Rust / Golang / TypeScript for programming.
 
-I have conducted research on medical image processing using deep learning during my master's degree. Throughout my studies, I had the opportunity to work in the QoS team at Hulu LLC., where I focused on improving service quality using machine learning techniques.
+I have conducted research on medical image processing using deep learning during my master's degree. Throughout my studies, I had the opportunity to work in the QoS team at Hulu LLC.
 
-After completing my master's degree, I joined the AI-Computing team at Megvii Inc., where I was responsible for developing an AI compiler toolchain for edge computing. Additionally, I have gained valuable experience in developing cloud-based infrastructure for LLM applications.
-
-Now I'm working at TuSimple Japan as a software integration engineer.
+After completing my master's degree, I joined the AI-Computing team at Megvii Inc., where I was responsible for developing an AI compiler toolchain for edge computing.
 
 I completed both my Bachelor's and Master's degrees in Software Engineering at Tsinghua University.
 
